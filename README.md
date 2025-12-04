@@ -23,10 +23,10 @@ I’m currently interested in building meaningful projects, designing websites f
 ## 📫 How to Reach Me
 You can connect with me here:
 
-📧 **Email:** vishnuanup06@gmail.com
-📸 **Instagram:** @_v1z___
-💼 **LinkedIn:** Vishnu Anup 
-💬 **GitHub:** https://github.com/vishnuv1z  
+- 📧 **Email:** vishnuanup06@gmail.com
+- 📸 **Instagram:** @_v1z___
+- 💼 **LinkedIn:** Vishnu Anup 
+- 💬 **GitHub:** https://github.com/vishnuv1z  
 
 ---
 

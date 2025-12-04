@@ -1,16 +1,34 @@
-## Hi there 👋
+### Hi there, I'm @vishnuv1z 👋
 
-<!--
-**vishnuv1z/vishnuv1z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👀 About Me
+I’m currently pursuing Integrated MCA (Computer Science) and I enjoy exploring the blend of coding and design.  
+I love creating clean and practical projects, design websites that help me improve my programming skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Current Learning
+I’m currently expanding my skills in:
+- HTML/CSS/JS
+- Front-End Design
+- Designing clean and user-friendly interfaces  
+
+---
+
+## 💞️ Collaboration
+I’m currently interested in building meaningful projects, designing websites for others, and creating clean, user-friendly interfaces that blend both functionality and design.
+
+
+---
+
+## 📫 How to Reach Me
+You can connect with me here:
+
+📧 **Email:** vishnuanup06@gmail.com
+📸 **Instagram:** @_v1z___
+💼 **LinkedIn:** Vishnu Anup 
+💬 **GitHub:** https://github.com/vishnuv1z  
+
+---
+
+## ⚡ Fun Fact
+I enjoy building small creative projects, even if no one asked for them 😄

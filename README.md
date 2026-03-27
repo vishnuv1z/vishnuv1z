@@ -27,8 +27,3 @@ You can connect with me here:
 - 📸 **Instagram:** @ _v1z___
 - 💼 **LinkedIn:** Vishnu Anup 
 - 💬 **GitHub:** https://github.com/vishnuv1z  
-
----
-
-## ⚡ Fun Fact
-I enjoy building small creative projects, even if no one asked for them 😄

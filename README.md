@@ -16,6 +16,5 @@ I’m open to collaborating on meaningful projects focused on clean, functional,
 You can connect with me here:  
 
 - 📧 **Email:** vishnuanup06@gmail.com
-- 📸 **Instagram:** @ _v1z___
-- 💼 **LinkedIn:** Vishnu Anup
+- 💼 **LinkedIn:** [Vishnu Anup](https://www.linkedin.com/in/vishnu-anup-533100334/)
 - 💬 **GitHub:** https://github.com/vishnuv1z  

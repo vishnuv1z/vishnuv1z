@@ -18,4 +18,4 @@ You can connect with me here:
 
 - 📧 **Email:** vishnuanup06@gmail.com
 - 💼 **LinkedIn:** [Vishnu Anup](https://www.linkedin.com/in/vishnu-anup-533100334/)
-- 💬 **Instagram:** https://instagram.com/_v1z___
+- 💬 **Instagram:** <https://instagram.com/_v1z___>
